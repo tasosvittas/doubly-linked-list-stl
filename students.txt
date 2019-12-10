@@ -1,0 +1,10 @@
+001 george    1 CE 9.0
+002 nikos     1 CS 7.5
+003 petros    2 CE 6.1
+004 maria     1 CS 3.5
+005 kostas    3 CS 4.0
+006 sofia     4 CS 1.0
+007 giannis   5 CE 9.0
+008 stelios   2 CS 10.0
+009 katerina  3 CE 8.5
+010 christina 4 CS 9.5
